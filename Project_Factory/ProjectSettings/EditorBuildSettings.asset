@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Start Scene.unity
+    guid: 709d1c0abc0a4064e831bc2881eca2ae
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Outside 1.unity
+    guid: 1ea2f8ec4b0cbb54a9715d5d0a7636ae
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Interior 1.unity
+    guid: ea1ca233c00654448b172c3ee114ca7d
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Interior 2.unity
+    guid: 3d2766f4bdf9cd044a154b8de509a479
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Interior 1 (Return).unity
+    guid: 9f1a42e3671adef4d8ef9f5821360668
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Outside 1 (Return).unity
+    guid: 9c76de6d9418e6c43b676b41960a0d79
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Death Scene.unity
+    guid: 6f964ea4b6943484b87c465966735b4e
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Victory Scene.unity
+    guid: 71161e04f65bc2a46a8acbb1bc4f048b
+  m_configObjects: {}
